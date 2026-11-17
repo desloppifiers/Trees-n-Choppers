@@ -1,11 +1,8 @@
 <div align="center">
 <h1>Trees 'n' Choppers</h1>
 
-=======
-
 <a>Choppin' Trees</a>
 </div>
-=======
 
 ## About this mod
 
